@@ -1,6 +1,7 @@
-# ssh-ftp-docker-wordpress-nagios.sh
+# ssh-ftp-docker-wordpress-nagios
+
 Auto install shh,ftp,docker,wordpress,nagios on ubuntu
 
-Cara menjalankan skrip:
-Jalankan perintah berikut untuk memberikan izin eksekusi: chmod +x install-all.sh
-Jalankan skrip: ./install-all.sh
+How to run the scrip
+
+Run command on terminal : chmod +x install-all.sh ./install-all.sh
